@@ -7,7 +7,7 @@ For this project we will be analysing tweets from twitter and outputting whether
 
 **Overview:**
  - Around 7500 tweets for training
- - data is evaluated using F1 between the predicted and expected answers.
+ - Data is evaluated using F1 between the predicted and expected answers.
 
 **Task:**
  - Predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0. EDA(Exploratory data analysis) is a must
